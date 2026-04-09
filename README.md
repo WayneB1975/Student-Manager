@@ -20,6 +20,10 @@ The **Student Records Manager** allows users to maintain a persistent list of st
 - **Data Structures:** Managing complex data using lists of dictionaries.
 - **Control Flow:** Using `while` loops and conditional logic to create a persistent user menu.
 
+## Why I Built this
+- I noticed that manual data entry often leads to file corruption and lost records. 
+I engineered this tool to demonstrate how simple Python scripts can automate data persistence and prevent human error.
+
 ## 📋 Prerequisites
 
 - Python 3.x
